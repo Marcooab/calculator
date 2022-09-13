@@ -3,6 +3,6 @@ Projeto simulando a Calculadora do Microsoft Windows
 
 Sobre este Projeto: 
 
-Objetivo: Consolidar conhecimentos adquiridos de JavaScript e Lógica.
+Objetivo: Consolidar conhecimentos adquiridos de JavaScript e Lógica. 
 
-Tecnologias Utilizadas: 
+Tecnologias Utilizadas: HTML, CSS, JavaScript.
